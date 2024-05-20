@@ -1,0 +1,1 @@
+Comenzamos con este proyecto a través de JS, HTML y CSS, todo lo que vamos a hacer por medio de GitHub
